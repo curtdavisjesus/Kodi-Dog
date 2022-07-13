@@ -5,7 +5,7 @@
        version="1.0.7"
        provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.14"/>
+    <import addon="xbmc.python" version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
@@ -20,7 +20,7 @@
 
 <addon id="plugin.audio.booksshouldbefree" name="Loyal Books" version="1.0.9" provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.14"/>
+    <import addon="xbmc.python" version="3.0.0"/>
   </requires>
 
   <extension point="xbmc.python.pluginsource" library="default.py">
@@ -41,7 +41,7 @@
 
 <addon id="plugin.audio.global-radio" name="Global Radio" version="1.0.0" provider-name="spoyser">
   <requires>
-     <import addon="xbmc.python" version="2.14.0"/>
+     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>audio</provides>
@@ -66,7 +66,7 @@
 <addon id="plugin.audio.ramfm" name="RAM FM Eighties Hit Radio" version="2.0.6" provider-name="spoyser">
 
   <requires>
-    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
   </requires>
 
   <extension point="xbmc.python.pluginsource" library="default.py">
@@ -95,7 +95,7 @@
 
 <addon id="plugin.audio.sonicstream" name="Sonic Stream Radio" version="1.0.1" provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
   </requires>
    <extension point="xbmc.python.script" library="default.py">
         <provides>audio</provides>
@@ -117,7 +117,7 @@ Independent music for the free spirited soul</description>
 
 <addon id="plugin.image.comicstrips" name="Comic Strips" version="1.0.4" provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>image video</provides>
@@ -131,7 +131,7 @@ Independent music for the free spirited soul</description>
 
 <addon id="plugin.program.super.favourites" name="Super Favourites" version="1.0.59" provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.metahandler" optional="true" />
   </requires>
 
@@ -188,7 +188,7 @@ Independent music for the free spirited soul</description>
 
 <addon id="plugin.program.vpnicity" name="VPNicity" version="1.3.6" provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.3.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
@@ -217,7 +217,7 @@ Independent music for the free spirited soul</description>
 
 <addon id="plugin.video.80smusicvideos" name="80s Music Videos" version="1.0.4" provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -231,7 +231,7 @@ Independent music for the free spirited soul</description>
 
 <addon id="plugin.video.funniermoments" name="Funnier Moments" version="1.0.21" provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -245,7 +245,7 @@ Independent music for the free spirited soul</description>
 
 <addon id="plugin.video.kidstube" name="Kids-Tube.nl" version="1.0.2" provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.simpleYT" version="0.0.1"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
@@ -263,7 +263,7 @@ Independent music for the free spirited soul</description>
        version="2.0.1"
        provider-name="iZE">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
     <import addon="plugin.video.youtube" version="2.1.0" />
   </requires>
   <extension point="xbmc.python.pluginsource"
@@ -279,7 +279,7 @@ Independent music for the free spirited soul</description>
 
 <addon id="plugin.video.muzu.tv" version="0.2.19" name="muzu.tv" provider-name="spoyser">
     <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="xbmc.python" version="3.0.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>audio</provides>
@@ -297,7 +297,7 @@ Independent music for the free spirited soul</description>
 
 <addon id="plugin.video.supercartoons" name="Super Cartoons" version="1.0.22" provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -311,7 +311,7 @@ Independent music for the free spirited soul</description>
 
 <addon id="plugin.video.thegreat80s" name="The Great 80's" version="1.0.3" provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.simpleYT" version="0.0.1"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
@@ -326,7 +326,7 @@ Independent music for the free spirited soul</description>
 
 <addon id="plugin.video.watchcartoononline" name="Watch Cartoon Online" version="1.0.23" provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -396,7 +396,7 @@ Independent music for the free spirited soul</description>
        version="1.0.2"
        provider-name="spoyser">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="3.0.0"/>
   </requires>
 
   <extension point="xbmc.python.script" library="default.py">
@@ -424,7 +424,7 @@ Independent music for the free spirited soul</description>
        provider-name="Leonard Richardson (leonardr@segfault.org)">
   <requires>
     <import addon="xbmc.python"
-    		version="1.0"/>
+    		version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
@@ -441,7 +441,7 @@ Independent music for the free spirited soul</description>
      version="2.7.0"
      provider-name="Eldorado">
   <requires>
-    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.simplejson" version="3.3.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
     <import addon="script.module.myconnpy" version="1.1.6"/>
@@ -464,7 +464,7 @@ Independent music for the free spirited soul</description>
 <addon id="script.module.simpleYT"
        name="Simple YouTube Resolver" version="1.0.2"  provider-name="spoyser">
     <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="xbmc.python" version="3.0.0"/>
     </requires>
    <extension point="xbmc.python.module" library="lib" />
    <extension point="xbmc.addon.metadata">
